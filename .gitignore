@@ -1,0 +1,14 @@
+# Ignore raw and processed data files
+data/raw/
+data/processed/
+
+# VS Code & Jupyter internals
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+.env
